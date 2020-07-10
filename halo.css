@@ -1,4 +1,16 @@
-/*tes*/
+* {
+  word-wrap: break-word;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
 body {
-  background: green;
+  background: #8df4c9;
+}
+.kertas {
+  background: #fff;
+  width: 600px;
+  max-width: 80%;
+  margin: 30px auto;
+  padding: 30px;
+  box-shadow: 0 0 10px 5px #cecece;
 }
